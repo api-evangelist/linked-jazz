@@ -1,0 +1,46 @@
+{
+    "name": "Linked Jazz",
+    "description": "Revealing the Relationships of the Jazz Community    Linked Jazz is a research project investigating the application of Linked Open Data technologies to digital cultural heritage materials. Our goals are:    1) To uncover meaningful connections between...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1892-linked-jazz.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "jazz",
+        "linked data",
+        "music"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/linked-jazz\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Linked Jazz",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1892-linked-jazz.jpg",
+            "humanURL": "https:\/\/linkedjazz.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/linkedjazz"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/semlabteam"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/linkedjazz.org\/api\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/linkedjazz.org\/"
+        }
+    ]
+}
